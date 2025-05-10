@@ -1,5 +1,5 @@
 ## About Me
-I'm a senior at Boston University majoring in Mathematics and Computer Science and minoring in Data Science. I love learning and solving problems, and my primary interests are machine learning, optimization, and full-stack web development. In my free time, I enjoy working on interesting personal projects.
+I recently graduated from Boston University with a B.A. in Mathematics and Computer Science and a minor in Data Science. I love learning and solving problems, and my primary interests are machine learning, optimization, and full-stack web development. In my free time, I enjoy working on interesting personal projects.
 
 ## GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=victorverma3&count_private=true&theme=tokyonight&showicons=true)]()
